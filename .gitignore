@@ -1,0 +1,7 @@
+# Ignore Python cache and key files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+key.key
+passwords.txt
